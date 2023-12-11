@@ -1,0 +1,4 @@
+flask_sqlalchemy
+sqlalchemy
+pydantic_sqlalchemy
+flask
